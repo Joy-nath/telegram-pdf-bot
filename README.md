@@ -7,7 +7,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Crowdin](https://badges.crowdin.net/telegram-pdf-bot/localized.svg)](https://crowdin.com/project/telegram-pdf-bot)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/pdf2botdev)
-[![Mentioned in Awesome Telegram](https://awesome.re/mentioned-badge.svg)](https://github.com/ebertti/awesome-telegram)
+[![Mentioned in Awesome Telegram](https://awesome.re/mentioned-badge.svg)](https://github.com/Joy-nath/awesome-telegram)
 
 A Telegram bot that can:
 
